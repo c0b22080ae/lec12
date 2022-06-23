@@ -1,4 +1,2 @@
-from cgitb import html
-
-
+print("hello")
 print("hello")
